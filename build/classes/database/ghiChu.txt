@@ -1,0 +1,6 @@
+DAO: data access object
+// seclect: lay tat cac cac doi tuong
+// selectById
+// insnert
+// delete
+// update
